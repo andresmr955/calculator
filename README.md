@@ -1,3 +1,4 @@
-# calculator 
-<h3>This is my first calculator in JAVA</h3>
-![image](https://github.com/user-attachments/assets/331db0a5-293f-4f34-9be5-ba6b3e2a7add)
+# Calculator 
+This is my first calculator in JAVA  
+![image](https://github.com/user-attachments/assets/a8ad725c-f009-499b-a7a3-b9dd06c830a4)
+
